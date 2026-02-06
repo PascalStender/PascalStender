@@ -3,6 +3,7 @@ Obwohl mich sowas schon immer interessiert hat fange ich nun von Null an und arb
 
 
 *Meine Zertifikate*
+
 *Der Lernstoff der Zertifikate wurde teilweise auf Diversen Plattformen gelernt zwecks Kostenersparniss. Deshalb erscheint in manchen Zertifikaten eine kurze Arbeitszeit*
 
 [![Coursera](https://img.shields.io/badge/Coursera-Google%20AI%20Essentials-blue?style=for-the-badge&logo=coursera)](https://coursera.org/share/48fe8a1deea1b852bcd6b20dc3257146)
